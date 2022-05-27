@@ -1,0 +1,75 @@
+segment_sources:
+  I828DAA3B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA80C608F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C0514D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  I62E66714:
+    type: origin_type
+    relation: translation
+    language: bo
+  I28888A14:
+    type: origin_type
+    relation: translation
+    language: en
+  IB3EB7184:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a7b14615fb9b41dc9e7c0175d033e384:
+    I828DAA3B: 775bfd06868e44bf9c7fe30c1cd9633d
+    IA80C608F: 6b5684ec42d9468fa4831aeb2db2cdc5
+    I5C0514D0: 3c37af2f4caa4c9a8a7fe75024fde1e8
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  8574435609f14808b48aa5e07725dbd5:
+    I828DAA3B: 69780c0e98064718a80a4fd10410bd2d
+    IA80C608F: f7d95ff9413c43a8b3b88783bd314e97
+    I5C0514D0: 26304439a91d441baa17804ec567df13
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  21a3fdfc45e4405ba664419de40588ec:
+    I828DAA3B: 5dbec3f432ac49d08cb14cd1c64aec6b
+    IA80C608F: e87c4c12a66a497ea6410050ad925cd7
+    I5C0514D0: 4453b9818caa4220903153956a0a9621
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  5605136fa66c43019d17e29343ce7e48:
+    I828DAA3B: cda9a68aa8034ecbb27bb02ddcd84754
+    IA80C608F: 29d882fb899142fcb7ef38dd03dd9d8d
+    I5C0514D0: 189d58407c894b12b22b72605705d168
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  b26111c3a2934f35971d820206a5764d:
+    I828DAA3B: 6bd444f25d8d4557be8271d2c771ffa5
+    IA80C608F: 99ba1ecc2fe24c8ca7457d129f6f5bd7
+    I5C0514D0: 29195cd513444fefa658690320bc9004
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  dbcd6fd2f65840ef86e4be4194b6a5d2:
+    I828DAA3B: b35ad3862cf0404bbd42079171b1a181
+    IA80C608F: adb686562755460d9892c86140205a2a
+    I5C0514D0: 9d9ff5a2c963449ca713bcc73d977ba4
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  d67879c0ecf64db892f99e593e29c4c9:
+    I828DAA3B: 23adc617e7a74bbbb8b1a4ead5fe60fa
+    IA80C608F: a7a4b55cbf2844359f006c0dcfd50e4c
+    I5C0514D0: 993abb6306a94ccdae0ac9a40b2f6473
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None

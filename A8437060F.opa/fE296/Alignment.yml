@@ -1,0 +1,68 @@
+segment_sources:
+  I828DAA3B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA80C608F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C0514D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  I62E66714:
+    type: origin_type
+    relation: translation
+    language: bo
+  I28888A14:
+    type: origin_type
+    relation: translation
+    language: en
+  IB3EB7184:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7b3133413f984edcbee7332bf5ffeea4:
+    I828DAA3B: 3a65d2a33aa94cc9ad74273bddbb6583
+    IA80C608F: 96f51dd92862484d8696857e53d215e5
+    I5C0514D0: 48a578ebdc794a969a7b4eff98075d54
+    I62E66714: cc5a34da758346669ec3118335171f7d
+    I28888A14: None
+    IB3EB7184: None
+  0c0bde94477d460f97b232ec4da43289:
+    I828DAA3B: 37f8ecbaabd64252bcc2549067f3882e
+    IA80C608F: a1178a9dec344f8d9b37aa48b4316fb7
+    I5C0514D0: e8c87e1b0d3d418087ef40af18b2acd1
+    I62E66714: 49221fd97de54b06b7f13cb51e01c71c
+    I28888A14: None
+    IB3EB7184: None
+  770441f4ec8540cbbd94e71c3b1a4d3e:
+    I828DAA3B: d1b1164d8a314b489c1c478917b905b2
+    IA80C608F: 42cde85354364e8aa604703489a37499
+    I5C0514D0: 1977cb69f6e54aceb2cf55159e1ac5ec
+    I62E66714: 3e440b891b9e496bb8f2c30129483b9b
+    I28888A14: None
+    IB3EB7184: None
+  856765b271de4b4287c5a53425de1dee:
+    I828DAA3B: d948762c1dae4d729040c2af4ff90116
+    IA80C608F: 3b3fb3cf0a3b405298fba1502809db77
+    I5C0514D0: 639bd2ef6ced43358b6a45a5274d280c
+    I62E66714: f8fe3ce566fc4289b6a440728c38e322
+    I28888A14: None
+    IB3EB7184: None
+  3d0e445f0e9241aa80de437bab965ecd:
+    I828DAA3B: 213acfd1d9464da1b942a0fb9ffa1561
+    IA80C608F: 8880d18d68f244dea75c4f69e4e06210
+    I5C0514D0: 0555b51b8c5c4717ba458969c127d8db
+    I62E66714: 7e6709138b4e41e3a2002dbf50eba34d
+    I28888A14: None
+    IB3EB7184: None
+  663932be511540d6a4d7e3a9954b211d:
+    I828DAA3B: 3bee1ee4e86047cc8409be24c3609b7c
+    IA80C608F: 5978c37869a2425c8c00878e296720d5
+    I5C0514D0: 2b792c0ece4f4360ba18719cc9984679
+    I62E66714: 693a354a922b4861861e741c4d42d8c3
+    I28888A14: None
+    IB3EB7184: None

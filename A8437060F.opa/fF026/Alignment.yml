@@ -1,0 +1,68 @@
+segment_sources:
+  I828DAA3B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA80C608F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C0514D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  I62E66714:
+    type: origin_type
+    relation: translation
+    language: bo
+  I28888A14:
+    type: origin_type
+    relation: translation
+    language: en
+  IB3EB7184:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d078baed62ca436cb616ef9c4ad8206e:
+    I828DAA3B: f6bcd2bb3e9d494c82a9426cb0c90959
+    IA80C608F: 3b933edce4104c5aabcc1e836bb6eb1f
+    I5C0514D0: 74358422c2784caa8d5bb9844c8c3557
+    I62E66714: 90a3ce7af6ee478fb2a1b25182c7e9b2
+    I28888A14: None
+    IB3EB7184: None
+  b97b7e78d396458f832ce52119d47f26:
+    I828DAA3B: 4d5be44081ac47c399fac2e62f1f48f9
+    IA80C608F: 61c92132576b4c89b5d1e5220a116b9a
+    I5C0514D0: 70ae83b7a97d4edda3d6ee6da93bda58
+    I62E66714: c6bde70d282f4ed1ade5ff93e97bd4f5
+    I28888A14: None
+    IB3EB7184: None
+  25cc6d54c3de4b73b0303a4b96a2d209:
+    I828DAA3B: 1edf0ed444974948a03407ddcdda8391
+    IA80C608F: 981e94d4273c41a099c4fd526f64dd59
+    I5C0514D0: 0eb36eebe7ce4194b3966a06032dbedf
+    I62E66714: 6cf41f008956433abf666485fbfb3c5f
+    I28888A14: None
+    IB3EB7184: None
+  891792b0a0444ade9f64621e7585476f:
+    I828DAA3B: 1c3c83d6294c43e79735eb260fbbf21c
+    IA80C608F: 0199ed4814544d9d9174b4189790688f
+    I5C0514D0: 5634cccd877f49738026bbc258d50923
+    I62E66714: cd2f36226e6c4324b38a6ac840a6d166
+    I28888A14: None
+    IB3EB7184: None
+  f0315796bc93433f8174c737ae0c056f:
+    I828DAA3B: defec3d8b2df4adb934429625f394ac9
+    IA80C608F: 6b79617f467642078f64bebe3eaf8580
+    I5C0514D0: bce0783f527d4ed9a79e4b8c085bd9dd
+    I62E66714: 70fd4896690b40bb83dd68aafece4451
+    I28888A14: None
+    IB3EB7184: None
+  57bf1b599c51470db5eed2cd17cfbd87:
+    I828DAA3B: fef90d8300274456b152ac2ccbac50e9
+    IA80C608F: fa47187a880a40d2af94d9cea70e9192
+    I5C0514D0: 65e7b19052e84b4fac0a8f3cb7364513
+    I62E66714: 5e74eefe6d3846d3a1049bf8e7162ff1
+    I28888A14: None
+    IB3EB7184: None

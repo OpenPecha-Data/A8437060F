@@ -1,0 +1,33 @@
+segment_sources:
+  I828DAA3B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA80C608F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C0514D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  I62E66714:
+    type: origin_type
+    relation: translation
+    language: bo
+  I28888A14:
+    type: origin_type
+    relation: translation
+    language: en
+  IB3EB7184:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fd21537461784db2bbc39743ff298cef:
+    I828DAA3B: 12a2204857814958b92a195e59fa3f7d
+    IA80C608F: eff7ff0e084340ed88db91348caad6aa
+    I5C0514D0: 18f1f9be7fbb4515a4075cfaa0b262aa
+    I62E66714: 5f38934aacd34326a5dc02e9de5fdabb
+    I28888A14: None
+    IB3EB7184: None

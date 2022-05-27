@@ -1,0 +1,75 @@
+segment_sources:
+  I828DAA3B:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA80C608F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C0514D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  I62E66714:
+    type: origin_type
+    relation: translation
+    language: bo
+  I28888A14:
+    type: origin_type
+    relation: translation
+    language: en
+  IB3EB7184:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  abe25c0b5d164d64960f10f8615d9796:
+    I828DAA3B: e6e7c8bcd081484fac30e3ca3cce8035
+    IA80C608F: 06a62a99b4d344ff9d1fa31c266bec81
+    I5C0514D0: dea3ca887921420498a6af3d0a5f42be
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  230218597e8b4c998d04ad3c46edc193:
+    I828DAA3B: 471ff35ac1be4fccab41499a754e460b
+    IA80C608F: a91834a57bb74f119d78589fb5f15dff
+    I5C0514D0: 6ccef70ef297417ca0853d6c4f5c8a29
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  86fdfc25ef414ac5b316b62166a3f59f:
+    I828DAA3B: 59ba63d844ac411a8c8bc6c829860419
+    IA80C608F: e4734b65cc5d49ebb40d67ca31d01fe4
+    I5C0514D0: b8960dd1a8234f9b9c6d61658d0d116c
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  49619384a57b46ddaae9048e06e42ee5:
+    I828DAA3B: bf97b9be331d46eeb67b84f0dd91af7f
+    IA80C608F: 4acbfb6c1f114782bb36ac9bf3a0b49e
+    I5C0514D0: e28280b4b17a4ce7ad9f4f4667906639
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  592f7bbe282247cd852576accbe237d8:
+    I828DAA3B: 2daa8b1356374d2cb99c909e76bd0f4e
+    IA80C608F: 76e7b49719b541d9b99b63e432a83c15
+    I5C0514D0: 36b73fadb0fe4e52849abe6394aad893
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  06c6445f2ed748ab8ee9497af28864cd:
+    I828DAA3B: 5f880141ac9845558d715b6025bf7159
+    IA80C608F: 0fec88f6f26d4995ab89b183824d38e2
+    I5C0514D0: a6cdcfec92bf4ce49f647ca177221a89
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
+  0bdf96e97ce045e3a5fc038021067969:
+    I828DAA3B: d41a858db5b44b5a93bf476386da1daa
+    IA80C608F: 3e9c1780224f4283b35d42a51583276b
+    I5C0514D0: 9d5383cda5dc458b8a8ba328284804c3
+    I62E66714: None
+    I28888A14: None
+    IB3EB7184: None
